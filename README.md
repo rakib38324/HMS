@@ -1,4 +1,5 @@
-include<stdio.h>
+''' 
+#include<stdio.h>
 
     struct node
 
@@ -659,3 +660,5 @@ int main()
     return 0;
 
 }
+
+'''
